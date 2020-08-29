@@ -192,10 +192,12 @@ body{
     border: 1px solid black;
     border-radius: 10px;
     text-align: center;
+    width: 110%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .h-primary2{
     text-align: center;
+    width: 110%;
     /* padding: 20px 15px; */
 }
 .h-secondary{
@@ -275,6 +277,7 @@ body{
     background-color: grey;
     border: 1px solid black;
     border-radius: 10px;
+    width: 110%;
     height: 39px;
 
 }
